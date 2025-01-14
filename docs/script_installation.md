@@ -16,7 +16,7 @@
 
 1. Завантажити скрипт:
 ```bash
-wget https://raw.githubusercontent.com/kshypachov/soap_client_trembita_sync/refs/heads/main/deploy.sh
+wget https://raw.githubusercontent.com/MadCat-88/Trembita_Py_S_SyncCli/refs/heads/main/deploy.sh
 ```
 
 2. Зробити файл виконуваним:
