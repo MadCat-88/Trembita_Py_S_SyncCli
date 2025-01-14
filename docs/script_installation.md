@@ -30,9 +30,9 @@ chmod +x deploy.sh
 ./deploy.sh
 ```
 
-4. Перейдітьти у директорію проекту: 
+4. Перейти у директорію проекту: 
 ```bash
-cd soap_client_trembita_sync
+cd Trembita_Py_S_SyncCli
 ```
 
 5. Виконати конфігурацію вебклієнту згідно [настанов з конфігурації](./configuration.md)
